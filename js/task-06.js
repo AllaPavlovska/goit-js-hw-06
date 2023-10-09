@@ -13,4 +13,3 @@ inputText.addEventListener("blur", (event) => {
     }
 });
     
-
